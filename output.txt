@@ -1,0 +1,46 @@
+X makes move at0,0
+Current Board State:
+X _ _ 
+_ _ _ 
+_ _ _ 
+O makes move at1,1
+Current Board State:
+X _ _ 
+_ O _ 
+_ _ _ 
+X makes move at0,1
+Current Board State:
+X X _ 
+_ O _ 
+_ _ _ 
+O makes move at0,2
+Current Board State:
+X X O 
+_ O _ 
+_ _ _ 
+X makes move at2,0
+Current Board State:
+X X O 
+_ O _ 
+X _ _ 
+O makes move at1,0
+Current Board State:
+X X O 
+O O _ 
+X _ _ 
+X makes move at1,2
+Current Board State:
+X X O 
+O O X 
+X _ _ 
+O makes move at2,1
+Current Board State:
+X X O 
+O O X 
+X O _ 
+X makes move at2,2
+Current Board State:
+X X O 
+O O X 
+X O X 
+TIE
